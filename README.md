@@ -1,4 +1,4 @@
-##assignment:
+## assignment:
 Implement an installment service which create installments for one order.
 
 Tips:
