@@ -3,7 +3,6 @@
 namespace App\Observers;
 
 use App\Models\Installment;
-use Illuminate\Support\Arr;
 
 class InstallmentObserver
 {
